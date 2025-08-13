@@ -1,4 +1,4 @@
-http://sbc.io/hosts/alternates/fakenews-gambling-porn-social/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardCNAMEAds.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardCNAMEClickthroughs.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardCNAMEMicrosites.txt
@@ -9,3 +9,6 @@ https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTr
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/EasyPrivacy3rdParty.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/EasyPrivacyCNAME.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/EasyPrivacySpecific.txt
+https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
