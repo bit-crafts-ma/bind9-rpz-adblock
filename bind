@@ -1,0 +1,1 @@
+bind ALL=(root) NOPASSWD: /usr/bin/systemctl restart named

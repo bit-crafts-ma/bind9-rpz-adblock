@@ -1,0 +1,1 @@
+0 */2 * * * /bin/bash -c '/opt/bind9-rpz-adblock/bind9-rpz-adblock.sh >>/var/log/named/cron.log 2>&1'
